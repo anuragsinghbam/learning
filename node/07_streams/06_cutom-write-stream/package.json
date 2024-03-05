@@ -1,0 +1,16 @@
+{
+  "name": "06_cutom-write-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customWritable.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
